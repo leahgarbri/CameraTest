@@ -1,0 +1,18 @@
+{
+  "name": "camera_test",
+  "version": "0.0.0",
+  "description": "An app that opens when a GlobalMed product is plugged in and shows the stats of the product",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/leahgarbri/CameraTest"
+  },
+  "author": "GlobalMed",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^5.0.4"
+  }
+}
